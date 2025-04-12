@@ -29,10 +29,13 @@ const navSections: NavSectionType[] = [
     {
         title: "Buttons",
         links: [
-            { href: "/components/buttons/radiant-button", label: "RadiantButton"},
-            { href: "/components/skybutton", label: "Sky Button" },
-            { href: "/contact", label: "Contact" },
-            { href: "/components/button", label: "Button" },
+            { href: "/components/buttons/radiant-button", label: "Radiant Button"},
+        ],
+    },
+    {
+        title: "Cards",
+        links: [
+            { href: "/components/cards/ghost-card", label: "Ghost Card"},
         ],
     },
     // {
